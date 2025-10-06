@@ -30,24 +30,24 @@ React é a biblioteca mais pedida para frontend. Dominá-la é crucial.
 
 ### React: Do Básico ao Avançado
 
-- [ ] **Setup e Fundamentos:**
-    - [ ] Entender o que é React e a Virtual DOM.
-    - [ ] Configurar um projeto com Vite (ferramenta moderna e rápida).
-    - [ ] Entender JSX e sua sintaxe.
-    - [ ] Criar componentes funcionais.
-    - [ ] Entender a diferença entre Props e State.
-- [ ] **Hooks Essenciais:**
-    - [ ] `useState`: Gerenciar o estado local do componente.
-    - [ ] `useEffect`: Lidar com efeitos colaterais (chamadas de API, manipulação do DOM).
+- [x] **Setup e Fundamentos:**
+    - [x] Entender o que é React e a Virtual DOM.
+    - [x] Configurar um projeto com Vite (ferramenta moderna e rápida).
+    - [x] Entender JSX e sua sintaxe.
+    - [x] Criar componentes funcionais.
+    - [x] Entender a diferença entre Props e State.
+- [x] **Hooks Essenciais:**
+    - [x] `useState`: Gerenciar o estado local do componente.
+    - [x] `useEffect`: Lidar com efeitos colaterais (chamadas de API, manipulação do DOM).
     - [ ] `useContext`: Compartilhar estado globalmente sem "prop drilling".
-- [ ] **Renderização e Listas:**
-    - [ ] Renderização condicional.
-    - [ ] Mapear arrays para renderizar listas de componentes (uso de `key`).
+- [x] **Renderização e Listas:**
+    - [x] Renderização condicional.
+    - [x] Mapear arrays para renderizar listas de componentes (uso de `key`).
 - [ ] **Roteamento:**
     - [ ] Usar a biblioteca `react-router-dom` para criar navegação entre páginas (Single Page Application).
-- [ ] **Requisições HTTP:**
-    - [ ] Fazer chamadas a APIs externas com `fetch` API ou `axios`.
-    - [ ] Lidar com estados de loading, success e error.
+- [x] **Requisições HTTP:**
+    - [x] Fazer chamadas a APIs externas com `fetch` API ou `axios`.
+    - [x] Lidar com estados de loading, success e error.
 - [ ] **Gerenciamento de Estado Avançado (Opcional, mas recomendado):**
     - [ ] Entender os conceitos do Redux com Redux Toolkit.
     - [ ] Alternativas como Zustand ou Jotai.
